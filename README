@@ -1,0 +1,15 @@
+Pulse Pace Stopwatch Web App
+This web application is a unique stopwatch tool created using HTML, CSS, and JavaScript.
+
+Key Features
+
+Functionality for starting, stopping, and resetting the stopwatch.
+Tracks lap times accurately including milliseconds.
+Includes an option to share stopwatch results on social media platforms.
+Offers keyboard shortcuts for easy control: 'Space' for Start/Stop, 'r' for Reset, 'l' for Lap.
+User-friendly design with a responsive layout for different devices.
+How to Use
+To utilize this stopwatch web app, simply open the PulsePace.html file in your web browser.
+
+Contributions
+We welcome contributions! If you have any suggestions for enhancements or new features, please feel free to raise an issue or submit a pull request. We appreciate your input and efforts to improve this project.
